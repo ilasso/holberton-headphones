@@ -1,10 +1,13 @@
 # **Design from scratch**
 
-## *Implement a landing page from scratch based on a design done in* [Figma](https://intranet.hbtn.io/rltoken/eumOUW-eMS4X9ZDZg9KPLg) like this:
+## *Implement a landing page from scratch based on a design done in* [Figma](https://www.figma.com/) like this:
 
 | **Desktop (Width: 1400 px)**  | **Tablet (Width: 760 px)** | **Mobile (Width: 480 px)** |
 |--|--|--|
 | ![Tablet](https://i.ibb.co/1r4k0WC/01-headphones-desktop-2x.png) | ![enter image description here](https://i.ibb.co/Y2FfH6w/02-headphones-tablet-2x.png) | ![Mobile](https://i.ibb.co/s1zx5NS/03-headphones-mobile-2x.png) |
+
+
+For more details see the [design](https://www.figma.com/file/gkWRcFqkwtruWZgSfnnHF0/Holberton-School---Headphone-company?node-id=0%3A1) directly in Figma
 
 ## Requirements for implementation
 
